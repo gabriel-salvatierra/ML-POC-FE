@@ -1,0 +1,81 @@
+2020-05-12 18:43:56 INFO   Se maximiza el navegador
+2020-05-12 18:44:00 INFO   Se carga la URL https://www.mercadolibre.com.ar/
+2020-05-12 18:44:00 INFO   Before hook - Placeholder
+2020-05-12 18:44:00 DEBUG  GIVEN navego hasta la landing page - No actions
+2020-05-12 18:44:00 DEBUG  WHEN selecciono en el menu de categorias
+2020-05-12 18:44:05 DEBUG  THEN se despliegan las categorias
+2020-05-12 18:44:05 INFO   ASSERT: categorias section displayed (expected)true vs (actual)true
+2020-05-12 18:44:07 INFO   Captura realizada <target/screenshots/2020.05.12.18.44.05 desplega cat menu.png>
+2020-05-12 18:44:07 DEBUG  GIVEN las categorias estan desplegadas - No actions
+2020-05-12 18:44:07 DEBUG  WHEN selecciono dentro de Hogar y Electrodomesticos Climatización
+2020-05-12 18:44:10 DEBUG  THEN se muestran los resultados para la seleccion de Climatización
+2020-05-12 18:44:11 INFO   ASSERT: validaciones resultados busqueda (expected)true vs (actual)true
+2020-05-12 18:44:11 INFO   ASSERT: validacion texto resultados (expected)true vs (actual)true
+2020-05-12 18:44:11 INFO   Captura realizada <target/screenshots/2020.05.12.18.44.11 validaciones Climatización.png>
+2020-05-12 18:44:12 INFO   After Hook - Closes driver
+2020-05-12 18:44:18 INFO   Se maximiza el navegador
+2020-05-12 18:44:22 INFO   Se carga la URL https://www.mercadolibre.com.ar/
+2020-05-12 18:44:22 INFO   Before hook - Placeholder
+2020-05-12 18:44:22 DEBUG  GIVEN navego hasta la landing page - No actions
+2020-05-12 18:44:22 DEBUG  WHEN selecciono en el menu de categorias
+2020-05-12 18:44:27 DEBUG  THEN se despliegan las categorias
+2020-05-12 18:44:27 INFO   ASSERT: categorias section displayed (expected)true vs (actual)true
+2020-05-12 18:44:28 INFO   Captura realizada <target/screenshots/2020.05.12.18.44.27 desplega cat menu.png>
+2020-05-12 18:44:28 DEBUG  GIVEN las categorias estan desplegadas - No actions
+2020-05-12 18:44:28 DEBUG  WHEN selecciono dentro de Tecnologia Celulares y Smartphones
+2020-05-12 18:44:33 DEBUG  THEN se muestran los resultados para la seleccion de Celulares y Smartphones
+2020-05-12 18:44:33 INFO   ASSERT: validaciones resultados busqueda (expected)true vs (actual)true
+2020-05-12 18:44:33 INFO   ASSERT: validacion texto resultados (expected)true vs (actual)true
+2020-05-12 18:44:34 INFO   Captura realizada <target/screenshots/2020.05.12.18.44.33 validaciones Celulares y Smartphones.png>
+2020-05-12 18:44:35 INFO   After Hook - Closes driver
+2020-05-12 18:44:41 INFO   Se maximiza el navegador
+2020-05-12 18:44:44 INFO   Se carga la URL https://www.mercadolibre.com.ar/
+2020-05-12 18:44:44 INFO   Before hook - Placeholder
+2020-05-12 18:44:44 DEBUG  GIVEN navego hasta la landing page - No actions
+2020-05-12 18:44:44 DEBUG  WHEN selecciono en el menu de categorias
+2020-05-12 18:44:49 DEBUG  THEN se despliegan las categorias
+2020-05-12 18:44:49 INFO   ASSERT: categorias section displayed (expected)true vs (actual)true
+2020-05-12 18:44:50 INFO   Captura realizada <target/screenshots/2020.05.12.18.44.49 desplega cat menu.png>
+2020-05-12 18:44:50 DEBUG  GIVEN las categorias estan desplegadas - No actions
+2020-05-12 18:44:50 DEBUG  WHEN selecciono Ver más categorias
+2020-05-12 18:44:50 DEBUG  THEN se muestra la pantalla de Categorias
+2020-05-12 18:44:50 DEBUG  https://www.mercadolibre.com.ar/categorias#menu=categories currentURL
+2020-05-12 18:44:50 DEBUG  https://www.mercadolibre.com.ar/categorias#menu=categories URLMasCategorias
+2020-05-12 18:44:50 INFO   ASSERT validacion URL categorias (esperado)true vs (actual)true
+2020-05-12 18:44:51 INFO   Captura realizada <target/screenshots/2020.05.12.18.44.50 Categorias page.png>
+2020-05-12 18:44:51 DEBUG  WHEN selecciono dentro de Belleza y cuidado personal Perfumes
+2020-05-12 18:44:54 DEBUG  THEN se muestran los resultados para la seleccion de Perfumes
+2020-05-12 18:44:55 INFO   ASSERT: validaciones resultados busqueda (expected)true vs (actual)true
+2020-05-12 18:44:55 INFO   ASSERT: validacion texto resultados (expected)true vs (actual)true
+2020-05-12 18:44:56 INFO   Captura realizada <target/screenshots/2020.05.12.18.44.55 validaciones Perfumes.png>
+2020-05-12 18:44:57 INFO   After Hook - Closes driver
+2020-05-12 18:45:03 INFO   Se maximiza el navegador
+2020-05-12 18:45:06 INFO   Se carga la URL https://www.mercadolibre.com.ar/
+2020-05-12 18:45:06 INFO   Before hook - Placeholder
+2020-05-12 18:45:06 DEBUG  GIVEN navego hasta la landing page - No actions
+2020-05-12 18:45:06 DEBUG  WHEN selecciono en el menu de categorias
+2020-05-12 18:45:10 DEBUG  THEN se despliegan las categorias
+2020-05-12 18:45:10 INFO   ASSERT: categorias section displayed (expected)true vs (actual)true
+2020-05-12 18:45:11 INFO   Captura realizada <target/screenshots/2020.05.12.18.45.10 desplega cat menu.png>
+2020-05-12 18:45:11 DEBUG  GIVEN las categorias estan desplegadas - No actions
+2020-05-12 18:45:11 INFO   selecciono dentro de Herramientas e Industria Industria Textil
+2020-05-12 18:45:14 DEBUG  THEN se muestran los resultados para la seleccion de Industria Textil
+2020-05-12 18:45:15 INFO   ASSERT: validaciones resultados busqueda (expected)true vs (actual)true
+2020-05-12 18:45:15 INFO   ASSERT: validacion texto resultados (expected)true vs (actual)true
+2020-05-12 18:45:16 INFO   Captura realizada <target/screenshots/2020.05.12.18.45.15 validaciones Industria Textil.png>
+2020-05-12 18:45:17 INFO   After Hook - Closes driver
+2020-05-12 18:45:22 INFO   Se maximiza el navegador
+2020-05-12 18:45:26 INFO   Se carga la URL https://www.mercadolibre.com.ar/
+2020-05-12 18:45:26 INFO   Before hook - Placeholder
+2020-05-12 18:45:26 DEBUG  GIVEN navego hasta la landing page - No actions
+2020-05-12 18:45:26 DEBUG  WHEN selecciono en el menu de categorias
+2020-05-12 18:45:31 DEBUG  THEN se despliegan las categorias
+2020-05-12 18:45:31 INFO   ASSERT: categorias section displayed (expected)true vs (actual)true
+2020-05-12 18:45:32 INFO   Captura realizada <target/screenshots/2020.05.12.18.45.31 desplega cat menu.png>
+2020-05-12 18:45:32 DEBUG  GIVEN las categorias estan desplegadas - No actions
+2020-05-12 18:45:32 INFO   selecciono dentro de Juguetes y Bebes Cuarto del Bebé
+2020-05-12 18:45:35 DEBUG  THEN se muestran los resultados para la seleccion de Cuarto del Bebé
+2020-05-12 18:45:35 INFO   ASSERT: validaciones resultados busqueda (expected)true vs (actual)true
+2020-05-12 18:45:35 INFO   ASSERT: validacion texto resultados (expected)true vs (actual)true
+2020-05-12 18:45:36 INFO   Captura realizada <target/screenshots/2020.05.12.18.45.35 validaciones Cuarto del Bebé.png>
+2020-05-12 18:45:37 INFO   After Hook - Closes driver

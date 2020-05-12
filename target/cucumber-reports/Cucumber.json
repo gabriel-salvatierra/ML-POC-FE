@@ -1,0 +1,726 @@
+[
+  {
+    "line": 3,
+    "elements": [
+      {
+        "line": 6,
+        "name": "Navegacion a la web y despliegue del menu de categorias",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 69275800,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "navego hasta la landing page",
+            "match": {
+              "location": "BackgroundSD.navego_hasta_la_landing_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4853918200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "selecciono en el menu de categorias",
+            "match": {
+              "location": "BackgroundSD.selecciono_en_el_menu_de_categorias()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1464000100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "se despliegan las categorias",
+            "match": {
+              "location": "BackgroundSD.se_despliegan_las_categorias()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 12660568800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.beforeHookPlaceholder()"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "Categorias - Hogar y Electrodomesticos",
+        "description": "",
+        "id": "categorias;categorias---hogar-y-electrodomesticos;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 758426000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.afterHookPlaceholder()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 3132200,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "las categorias estan desplegadas",
+            "match": {
+              "location": "CategoriasSD.las_categorias_estan_desplegadas()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3037141000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "selecciono dentro de Hogar y Electrodomesticos \"Climatización\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Climatización\"",
+                  "offset": 47
+                }
+              ],
+              "location": "CategoriasSD.selecciono_dentro_de_Hogar_y_Electrodomesticos(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1739742900,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "se muestran los resultados para la seleccion de \"Climatización\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Climatización\"",
+                  "offset": 48
+                }
+              ],
+              "location": "CategoriasSD.se_muestran_los_resultados_para_la_seleccion_de(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@CategoriasFeature"
+          },
+          {
+            "name": "@HogarYElectrodomesticos"
+          },
+          {
+            "name": "@Climatizacion"
+          }
+        ]
+      },
+      {
+        "line": 6,
+        "name": "Navegacion a la web y despliegue del menu de categorias",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 8611000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "navego hasta la landing page",
+            "match": {
+              "location": "BackgroundSD.navego_hasta_la_landing_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4597055500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "selecciono en el menu de categorias",
+            "match": {
+              "location": "BackgroundSD.selecciono_en_el_menu_de_categorias()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1084891700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "se despliegan las categorias",
+            "match": {
+              "location": "BackgroundSD.se_despliegan_las_categorias()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 9978867700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.beforeHookPlaceholder()"
+            }
+          }
+        ],
+        "line": 27,
+        "name": "Categorias - Tecnologia",
+        "description": "",
+        "id": "categorias;categorias---tecnologia;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 754259800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.afterHookPlaceholder()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1984900,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "las categorias estan desplegadas",
+            "match": {
+              "location": "CategoriasSD.las_categorias_estan_desplegadas()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4786143700,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "selecciono dentro de Tecnologia \"Celulares y Smartphones\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Celulares y Smartphones\"",
+                  "offset": 32
+                }
+              ],
+              "location": "CategoriasSD.selecciono_dentro_de_Tecnologia(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1603251100,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "se muestran los resultados para la seleccion de \"Celulares y Smartphones\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Celulares y Smartphones\"",
+                  "offset": 48
+                }
+              ],
+              "location": "CategoriasSD.se_muestran_los_resultados_para_la_seleccion_de(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@CategoriasFeature"
+          },
+          {
+            "name": "@Tecnologia"
+          },
+          {
+            "name": "@CelularesYSmartphones"
+          }
+        ]
+      },
+      {
+        "line": 6,
+        "name": "Navegacion a la web y despliegue del menu de categorias",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 4655700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "navego hasta la landing page",
+            "match": {
+              "location": "BackgroundSD.navego_hasta_la_landing_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4472633900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "selecciono en el menu de categorias",
+            "match": {
+              "location": "BackgroundSD.selecciono_en_el_menu_de_categorias()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 883218200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "se despliegan las categorias",
+            "match": {
+              "location": "BackgroundSD.se_despliegan_las_categorias()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 9139450100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.beforeHookPlaceholder()"
+            }
+          }
+        ],
+        "line": 38,
+        "name": "Categorias - BellezaYCuidadoPersonal",
+        "description": "",
+        "id": "categorias;categorias---bellezaycuidadopersonal;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 715319900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.afterHookPlaceholder()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1036400,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "las categorias estan desplegadas",
+            "match": {
+              "location": "CategoriasSD.las_categorias_estan_desplegadas()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 702674800,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "selecciono Ver más categorias",
+            "match": {
+              "location": "CategoriasSD.selecciono_Ver_más_categorias()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 975168400,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "se muestra la pantalla de Categorias",
+            "match": {
+              "location": "CategoriasSD.se_muestra_la_pantalla_de_Categorias()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2936834900,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "selecciono dentro de Belleza y cuidado personal \"Perfumes\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Perfumes\"",
+                  "offset": 48
+                }
+              ],
+              "location": "CategoriasSD.selecciono_dentro_de_Belleza_y_cuidado_personal(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1933593100,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "se muestran los resultados para la seleccion de \"Perfumes\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Perfumes\"",
+                  "offset": 48
+                }
+              ],
+              "location": "CategoriasSD.se_muestran_los_resultados_para_la_seleccion_de(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@CategoriasFeature"
+          },
+          {
+            "name": "@BellezaYCuidadoPersonal"
+          },
+          {
+            "name": "@Perfumes"
+          }
+        ]
+      },
+      {
+        "line": 6,
+        "name": "Navegacion a la web y despliegue del menu de categorias",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 2885900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "navego hasta la landing page",
+            "match": {
+              "location": "BackgroundSD.navego_hasta_la_landing_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4239429600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "selecciono en el menu de categorias",
+            "match": {
+              "location": "BackgroundSD.selecciono_en_el_menu_de_categorias()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1139362000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "se despliegan las categorias",
+            "match": {
+              "location": "BackgroundSD.se_despliegan_las_categorias()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 9307901700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.beforeHookPlaceholder()"
+            }
+          }
+        ],
+        "line": 47,
+        "name": "Categorias - HerramientasEIndustria",
+        "description": "",
+        "id": "categorias;categorias---herramientaseindustria;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 790095300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.afterHookPlaceholder()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1995200,
+              "status": "passed"
+            },
+            "line": 42,
+            "name": "las categorias estan desplegadas",
+            "match": {
+              "location": "CategoriasSD.las_categorias_estan_desplegadas()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2721113000,
+              "status": "passed"
+            },
+            "line": 43,
+            "name": "selecciono dentro de Herramientas e Industrias \"Industria Textil\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Industria Textil\"",
+                  "offset": 47
+                }
+              ],
+              "location": "CategoriasSD.selecciono_dentro_de_Herramientas_e_Industrias(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1630695800,
+              "status": "passed"
+            },
+            "line": 44,
+            "name": "se muestran los resultados para la seleccion de \"Industria Textil\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Industria Textil\"",
+                  "offset": 48
+                }
+              ],
+              "location": "CategoriasSD.se_muestran_los_resultados_para_la_seleccion_de(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@CategoriasFeature"
+          },
+          {
+            "name": "@HerramientasEIndustrias"
+          },
+          {
+            "name": "@IndustriaTextil"
+          }
+        ]
+      },
+      {
+        "line": 6,
+        "name": "Navegacion a la web y despliegue del menu de categorias",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 5587600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "navego hasta la landing page",
+            "match": {
+              "location": "BackgroundSD.navego_hasta_la_landing_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4543329500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "selecciono en el menu de categorias",
+            "match": {
+              "location": "BackgroundSD.selecciono_en_el_menu_de_categorias()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1102980300,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "se despliegan las categorias",
+            "match": {
+              "location": "BackgroundSD.se_despliegan_las_categorias()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 9569428600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.beforeHookPlaceholder()"
+            }
+          }
+        ],
+        "line": 56,
+        "name": "Categorias - HerramientasEIndustria",
+        "description": "",
+        "id": "categorias;categorias---herramientaseindustria;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 734579400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hook.afterHookPlaceholder()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1062400,
+              "status": "passed"
+            },
+            "line": 51,
+            "name": "las categorias estan desplegadas",
+            "match": {
+              "location": "CategoriasSD.las_categorias_estan_desplegadas()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2691455900,
+              "status": "passed"
+            },
+            "line": 52,
+            "name": "selecciono dentro de Juguetes y Bebes \"Cuarto del Bebé\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Cuarto del Bebé\"",
+                  "offset": 38
+                }
+              ],
+              "location": "CategoriasSD.selecciono_dentro_de_Juguetes_y_Bebes(String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1229482000,
+              "status": "passed"
+            },
+            "line": 53,
+            "name": "se muestran los resultados para la seleccion de \"Cuarto del Bebé\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Cuarto del Bebé\"",
+                  "offset": 48
+                }
+              ],
+              "location": "CategoriasSD.se_muestran_los_resultados_para_la_seleccion_de(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@CategoriasFeature"
+          },
+          {
+            "name": "@JuguetesYBebes"
+          },
+          {
+            "name": "@CuartoDelBebe"
+          }
+        ]
+      }
+    ],
+    "name": "Categorias",
+    "description": "  Se probaran en este feature las 5 busquedas por categoria del Ejercicio 1",
+    "id": "categorias",
+    "keyword": "Feature",
+    "uri": "feature/Categorias.feature",
+    "tags": [
+      {
+        "name": "@CategoriasFeature",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

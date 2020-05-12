@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="5" time="108.885705">
+<testcase classname="Categorias" name="Categorias - Hogar y Electrodomesticos" time="24.591059">
+<system-out><![CDATA[Given navego hasta la landing page..........................................passed
+When selecciono en el menu de categorias....................................passed
+Then se despliegan las categorias...........................................passed
+Given las categorias estan desplegadas......................................passed
+When selecciono dentro de Hogar y Electrodomesticos "Climatización".........passed
+Then se muestran los resultados para la seleccion de "Climatización"........passed
+]]></system-out>
+</testcase>
+<testcase classname="Categorias" name="Categorias - Tecnologia" time="22.815877">
+<system-out><![CDATA[Given navego hasta la landing page..........................................passed
+When selecciono en el menu de categorias....................................passed
+Then se despliegan las categorias...........................................passed
+Given las categorias estan desplegadas......................................passed
+When selecciono dentro de Tecnologia "Celulares y Smartphones"..............passed
+Then se muestran los resultados para la seleccion de "Celulares y Smartphones".passed
+]]></system-out>
+</testcase>
+<testcase classname="Categorias" name="Categorias - BellezaYCuidadoPersonal" time="21.765402">
+<system-out><![CDATA[Given navego hasta la landing page..........................................passed
+When selecciono en el menu de categorias....................................passed
+Then se despliegan las categorias...........................................passed
+Given las categorias estan desplegadas......................................passed
+When selecciono Ver más categorias..........................................passed
+Then se muestra la pantalla de Categorias...................................passed
+And selecciono dentro de Belleza y cuidado personal "Perfumes"..............passed
+Then se muestran los resultados para la seleccion de "Perfumes".............passed
+]]></system-out>
+</testcase>
+<testcase classname="Categorias" name="Categorias - HerramientasEIndustria" time="19.834572">
+<system-out><![CDATA[Given navego hasta la landing page..........................................passed
+When selecciono en el menu de categorias....................................passed
+Then se despliegan las categorias...........................................passed
+Given las categorias estan desplegadas......................................passed
+When selecciono dentro de Herramientas e Industrias "Industria Textil"......passed
+Then se muestran los resultados para la seleccion de "Industria Textil".....passed
+]]></system-out>
+</testcase>
+<testcase classname="Categorias" name="Categorias - HerramientasEIndustria 2" time="19.878795">
+<system-out><![CDATA[Given navego hasta la landing page..........................................passed
+When selecciono en el menu de categorias....................................passed
+Then se despliegan las categorias...........................................passed
+Given las categorias estan desplegadas......................................passed
+When selecciono dentro de Juguetes y Bebes "Cuarto del Bebé"................passed
+Then se muestran los resultados para la seleccion de "Cuarto del Bebé"......passed
+]]></system-out>
+</testcase>
+</testsuite>
